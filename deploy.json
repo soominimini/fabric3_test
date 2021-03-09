@@ -1,7 +1,7 @@
 {
-  "REPO_URL": "https://github.com/Beomi/our_project",
-  "PROJECT_NAME": "our_project",
-  "REMOTE_HOST": "our_project.com",
-  "REMOTE_HOST_SSH": "123.32.1.4",
-  "REMOTE_USER": "sudouser"
+  "REPO_URL": "https://github.com/soominimini/fabric3_test",
+  "PROJECT_NAME": "test",
+  "REMOTE_HOST": "soominproject.com",
+  "REMOTE_HOST_SSH": "115.68.168.153",
+  "REMOTE_USER": "lov4e3"
 }
